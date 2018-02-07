@@ -1,0 +1,7 @@
+Z:\BasicInheritance\BasicInheritance\bin\Debug\BasicInheritance.exe.config
+Z:\BasicInheritance\BasicInheritance\bin\Debug\BasicInheritance.exe
+Z:\BasicInheritance\BasicInheritance\bin\Debug\BasicInheritance.pdb
+Z:\BasicInheritance\BasicInheritance\obj\Debug\BasicInheritance.csprojResolveAssemblyReference.cache
+Z:\BasicInheritance\BasicInheritance\obj\Debug\BasicInheritance.csproj.CoreCompileInputs.cache
+Z:\BasicInheritance\BasicInheritance\obj\Debug\BasicInheritance.exe
+Z:\BasicInheritance\BasicInheritance\obj\Debug\BasicInheritance.pdb
